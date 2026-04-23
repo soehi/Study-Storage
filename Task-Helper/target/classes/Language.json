@@ -1,0 +1,62 @@
+[
+    {
+        "default": true,
+        "Language": "简体中文",
+        "languageOnTrue": "语言已切换为",
+        "NullPointerException": "选项寻找出错",
+        "Option": [
+            "language - 切换语言"
+        ],
+        "Task get": "任务拉取成功",
+        "errIO": "任务拉取失败 -- json文件损坏",
+        "Task Request": "请输入任务内容",
+        "Task add OK": "任务添加成功",
+        "Format Err": "update输入格式错误",
+        "NumberFormatException": "id处应输入数字",
+        "ID out": "id范围超出任务数",
+        "Operation successful": "操作成功",
+        "Format delete": "delete输入格式错误",
+        "Format mark": "mark输入格式错误",
+        "Help": "帮助信息"
+    },
+    {
+        "default": false,
+        "Language": "English",
+        "languageOnTrue": "Language switched to",
+        "NullPointerException": "Option lookup error",
+        "Option": [
+            "language - Switch language"
+        ],
+        "Task get": "Successfully pulled tasks",
+        "errIO": "Task pull failed -- json file corrupted",
+        "Task Request": "Please enter task content",
+        "Task add OK": "Task added successfully",
+        "Format Err": "update command format error",
+        "NumberFormatException": "id should be a number",
+        "ID out": "id out of task range",
+        "Operation successful": "Operation successful",
+        "Format delete": "delete command format error",
+        "Format mark": "mark command format error",
+        "Help": "Help information"
+    },
+    {
+        "default": false,
+        "Language": "日本語",
+        "languageOnTrue": "言語が切り替えられました",
+        "NullPointerException": "オプションの検索エラー",
+        "Option": [
+            "language - 言語を切り換えます"
+        ],
+        "Task get": "タスクのプルに成功しました",
+        "errIO": "タスクのプルに失敗しました -- JSONファイルが破損しています",
+        "Task Request": "タスク内容を入力してください",
+        "Task add OK": "タスクの追加に成功しました",
+        "Format Err": "updateコマンドの形式エラー",
+        "NumberFormatException": "idには数字を入力してください",
+        "ID out": "idがタスクの範囲外です",
+        "Operation successful": "操作が成功しました",
+        "Format delete": "deleteコマンドの形式エラー",
+        "Format mark": "markコマンドの形式エラー",
+        "Help": "ヘルプ情報"
+    }
+]
